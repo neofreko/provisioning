@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/matiassingers/provisioning",
   "dependencies": {
-    "cert-downloader": "0.1.0",
+    "cert-downloader": "https://github.com/evi-snowm/cert-downloader.git#976798f3f6d357297c4b2d97a73e3d80110004a4",
     "simple-plist": "0.0.4"
   },
   "devDependencies": {
